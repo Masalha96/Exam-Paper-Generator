@@ -1,0 +1,599 @@
+Q1: What is the capital city of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Brisbane
+
+Q2: What is the chemical symbol for gold?
+A) Ag
+B) Au
+C) Fe
+D) Na
+
+Q3: Who painted the Mona Lisa?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+
+Q4: In which year did the Titanic sink?
+A) 1905
+B) 1912
+C) 1918
+D) 1923
+
+Q5: What is the largest planet in our solar system?
+A) Earth
+B) Mars
+C) Saturn
+D) Jupiter
+
+Q6: How many sides does a hexagon have?
+A) Five
+B) Six
+C) Seven
+D) Eight
+
+Q7: Which gas do plants primarily use for photosynthesis?
+A) Oxygen
+B) Nitrogen
+C) Carbon Dioxide
+D) Hydrogen
+
+Q8: What is the highest mountain peak in Africa?
+A) Mount Kilimanjaro
+B) Mount Kenya
+C) Mount Everest
+D) Mount Fuji
+
+Q9: Who wrote "To Kill a Mockingbird"?
+A) F. Scott Fitzgerald
+B) Harper Lee
+C) Ernest Hemingway
+D) J.D. Salinger
+
+Q10: What is the main ingredient in guacamole?
+A) Tomato
+B) Avocado
+C) Onion
+D) Chili Pepper
+
+Q11: What is the currency of Japan?
+A) Won
+B) Yuan
+C) Yen
+D) Ringgit
+
+Q12: Which element has the atomic number 1?
+A) Oxygen
+B) Helium
+C) Hydrogen
+D) Carbon
+
+Q13: What is the collective name for a group of lions?
+A) Flock
+B) Herd
+C) Pride
+D) Pack
+
+Q14: What is the longest river in the world?
+A) Amazon River
+B) Yangtze River
+C) Nile River
+D) Mississippi River
+
+Q15: Who was the first person to walk on the moon?
+A) Buzz Aldrin
+B) Neil Armstrong
+C) Michael Collins
+D) John Glenn
+
+Q16: What is the freezing point of water in Celsius?
+A) 100
+B) 32
+C) 0
+D) -10
+
+Q17: Which country is famous for the Eiffel Tower?
+A) Italy
+B) Germany
+C) Spain
+D) France
+
+Q18: What is the primary function of red blood cells?
+A) Fighting infection
+B) Clotting blood
+C) Carrying oxygen
+D) Digesting nutrients
+
+Q19: Which musical instrument has keys, pedals, and strings but is not a piano?
+A) Guitar
+B) Harp
+C) Cello
+D) Organ
+
+Q20: What is the capital city of Canada?
+A) Toronto
+B) Vancouver
+C) Montreal
+D) Ottawa
+
+Q21: What is the square root of 64?
+A) 6
+B) 7
+C) 8
+D) 9
+
+Q22: Which period followed the Stone Age?
+A) Iron Age
+B) Bronze Age
+C) Middle Ages
+D) Industrial Revolution
+
+Q23: What is the process of a liquid turning into a gas called?
+A) Condensation
+B) Sublimation
+C) Evaporation
+D) Melting
+
+Q24: Who developed the theory of relativity?
+A) Isaac Newton
+B) Galileo Galilei
+C) Albert Einstein
+D) Nikola Tesla
+
+Q25: Which sea lies between Europe and North Africa?
+A) Red Sea
+B) Black Sea
+C) Mediterranean Sea
+D) Caspian Sea
+
+Q26: What is the hardest natural substance on Earth?
+A) Gold
+B) Steel
+C) Quartz
+D) Diamond
+
+Q27: How many continents are there?
+A) Five
+B) Six
+C) Seven
+D) Eight
+
+Q28: Who is known as the "Father of Computers"?
+A) Bill Gates
+B) Alan Turing
+C) Charles Babbage
+D) Steve Jobs
+
+Q29: What type of animal is a dolphin?
+A) Fish
+B) Amphibian
+C) Mammal
+D) Reptile
+
+Q30: What is the chemical formula for table salt?
+A) H2O
+B) NaCl
+C) CO2
+D) HCl
+
+Q31: What is the main setting of the novel "Moby Dick"?
+A) A farm
+B) A ship
+C) A desert
+D) A mountain
+
+Q32: What is the largest desert in the world?
+A) Gobi Desert
+B) Kalahari Desert
+C) Sahara Desert
+D) Arabian Desert
+
+Q33: What is the unit of electrical resistance?
+A) Ampere
+B) Volt
+C) Ohm
+D) Watt
+
+Q34: What famous ship did Charles Darwin travel on?
+A) The Victory
+B) The Beagle
+C) The Endeavour
+D) The Santa Maria
+
+Q35: How many bones are in the adult human body?
+A) 180
+B) 206
+C) 250
+D) 300
+
+Q36: Which sport uses a shuttlecock?
+A) Tennis
+B) Volleyball
+C) Badminton
+D) Squash
+
+Q37: What is the capital of South Korea?
+A) Busan
+B) Seoul
+C) Incheon
+D) Daegu
+
+Q38: What color is absorbed the least by plants?
+A) Red
+B) Blue
+C) Green
+D) Yellow
+
+Q39: Who wrote the play "Hamlet"?
+A) Christopher Marlowe
+B) George Bernard Shaw
+C) William Shakespeare
+D) Oscar Wilde
+
+Q40: What is the world's most populous country?
+A) India
+B) China
+C) USA
+D) Indonesia
+
+Q41: What is the common name for the star Polaris?
+A) Sirius
+B) North Star
+C) Vega
+D) Betelgeuse
+
+Q42: What is the outermost layer of the Earth called?
+A) Mantle
+B) Core
+C) Crust
+D) Outer Core
+
+Q43: Which Roman emperor made Christianity the state religion?
+A) Nero
+B) Caligula
+C) Constantine
+D) Augustus
+
+Q44: What geometric shape has four equal sides and four right angles?
+A) Rectangle
+B) Rhombus
+C) Trapezoid
+D) Square
+
+Q45: What is the deepest known point in the Earth's oceans?
+A) Puerto Rico Trench
+B) Mariana Trench
+C) Java Trench
+D) Tonga Trench
+
+Q46: Which city hosted the 2016 Summer Olympics?
+A) London
+B) Beijing
+C) Rio de Janeiro
+D) Tokyo
+
+Q47: What nutrient is primarily found in meat, beans, and nuts?
+A) Carbohydrates
+B) Fats
+C) Proteins
+D) Vitamins
+
+Q48: Who discovered penicillin?
+A) Louis Pasteur
+B) Marie Curie
+C) Alexander Fleming
+D) Gregor Mendel
+
+Q49: What is the period of time between two full moons called?
+A) Lunar day
+B) Solar year
+C) Synodic month
+D) Sidereal month
+
+Q50: Which US state is known as the "Sunshine State"?
+A) California
+B) Florida
+C) Texas
+D) Arizona
+
+Q51: What is the primary gas in Earth's atmosphere?
+A) Oxygen
+B) Nitrogen
+C) Argon
+D) Carbon Dioxide
+
+Q52: What is the smallest country in the world by area?
+A) Monaco
+B) Vatican City
+C) Nauru
+D) Liechtenstein
+
+Q53: Who composed the "Moonlight Sonata"?
+A) Mozart
+B) Bach
+C) Beethoven
+D) Chopin
+
+Q54: What does the 'E' stand for in 'E=mc^2'?
+A) Energy
+B) Electric
+C) Electron
+D) Efficiency
+
+Q55: Which famous structure was built by the Emperor Shah Jahan?
+A) Great Wall of China
+B) Taj Mahal
+C) Colosseum
+D) Machu Picchu
+
+Q56: What is the study of earthquakes called?
+A) Meteorology
+B) Geology
+C) Seismology
+D) Archaeology
+
+Q57: How many meters are in a kilometer?
+A) 10
+B) 100
+C) 1,000
+D) 10,000
+
+Q58: Which animal can be a marsupial?
+A) Bear
+B) Kangaroo
+C) Wolf
+D) Elephant
+
+Q59: What is the largest country in South America by area?
+A) Argentina
+B) Peru
+C) Brazil
+D) Colombia
+
+Q60: Who invented the telephone?
+A) Thomas Edison
+B) Nikola Tesla
+C) Alexander Graham Bell
+D) Guglielmo Marconi
+
+Q61: What is the capital of Russia?
+A) St. Petersburg
+B) Kiev
+C) Moscow
+D) Kazan
+
+Q62: What type of rock is formed from cooled magma or lava?
+A) Sedimentary
+B) Metamorphic
+C) Igneous
+D) Sandstone
+
+Q63: Which mythological figure had a weakness in their heel?
+A) Hercules
+B) Achilles
+C) Odysseus
+D) Perseus
+
+Q64: What is the pH level of a neutral substance?
+A) 0
+B) 5
+C) 7
+D) 14
+
+Q65: What is the name of the main computer in 2001: A Space Odyssey?
+A) Deep Blue
+B) HAL 9000
+C) Skynet
+D) Jarvis
+
+Q66: What is the process of turning grapes into wine called?
+A) Brewing
+B) Distilling
+C) Fermentation
+D) Pasturizing
+
+Q67: Which country is the world's leading producer of coffee?
+A) Vietnam
+B) Colombia
+C) Brazil
+D) Ethiopia
+
+Q68: What is the smallest bone in the human body?
+A) Femur
+B) Patella
+C) Stapes
+D) Radius
+
+Q69: Who was the first female Prime Minister of the UK?
+A) Theresa May
+B) Margaret Thatcher
+C) Golda Meir
+D) Angela Merkel
+
+Q70: What is 15% of 200?
+A) 15
+B) 20
+C) 30
+D) 45
+
+Q71: What is the name of the galaxy containing our solar system?
+A) Andromeda
+B) Triangulum
+C) Sombrero
+D) Milky Way
+
+Q72: Which ancient civilization built the pyramids of Giza?
+A) Roman
+B) Greek
+C) Egyptian
+D) Mesopotamian
+
+Q73: What is the capital of New Zealand?
+A) Auckland
+B) Christchurch
+C) Wellington
+D) Queenstown
+
+Q74: What is the average speed of sound in dry air at 20 degrees Celsius?
+A) 150 m/s
+B) 343 m/s
+C) 1,225 km/h
+D) 767 mph
+
+Q75: Who painted "The Starry Night"?
+A) Salvador Dalí
+B) Vincent van Gogh
+C) Edvard Munch
+D) Gustav Klimt
+
+Q76: What is the main component of natural gas?
+A) Propane
+B) Butane
+C) Methane
+D) Ethane
+
+Q77: Which animal is native to Australia and often confused with a bear?
+A) Wombat
+B) Koala
+C) Tasmanian Devil
+D) Platypus
+
+Q78: What is the currency of Switzerland?
+A) Euro
+B) Franc
+C) Krone
+D) Lira
+
+Q79: What is the term for a word that is spelled the same forwards and backward?
+A) Anagram
+B) Metaphor
+C) Palindrome
+D) Homonym
+
+Q80: What is the largest gland in the human body?
+A) Pancreas
+B) Thyroid
+C) Liver
+D) Adrenal
+
+Q81: What is the name of the treaty that ended World War I?
+A) Treaty of Paris
+B) Treaty of Versailles
+C) Treaty of Ghent
+D) Treaty of Tordesillas
+
+Q82: What is the process that splits a heavy nucleus into smaller fragments?
+A) Fusion
+B) Fission
+C) Oxidation
+D) Reduction
+
+Q83: Which ocean is the warmest?
+A) Pacific
+B) Atlantic
+C) Indian
+D) Arctic
+
+Q84: What type of wave is light?
+A) Mechanical
+B) Transverse
+C) Longitudinal
+D) Sound
+
+Q85: What country is the birthplace of the Renaissance?
+A) Spain
+B) Greece
+C) France
+D) Italy
+
+Q86: What unit is used to measure the intensity of sound?
+A) Hertz
+B) Decibel
+C) Pascal
+D) Joule
+
+Q87: Who wrote the book "1984"?
+A) Aldous Huxley
+B) George Orwell
+C) Ray Bradbury
+D) J.R.R. Tolkien
+
+Q88: What is the capital of Thailand?
+A) Hanoi
+B) Kuala Lumpur
+C) Bangkok
+D) Manila
+
+Q89: What is the term for the shedding of an exoskeleton by an arthropod?
+A) Hibernation
+B) Estivation
+C) Molting
+D) Metamorphosis
+
+Q90: What number is represented by the Roman numeral 'C'?
+A) 50
+B) 100
+C) 500
+D) 1,000
+
+Q91: What is the name of the strait separating Europe from Africa?
+A) Suez Canal
+B) Strait of Hormuz
+C) Strait of Gibraltar
+D) Panama Canal
+
+Q92: What part of the plant conducts water and nutrients from the roots to the leaves?
+A) Phloem
+B) Xylem
+C) Cambium
+D) Stomata
+
+Q93: Who was the Greek god of the sea?
+A) Zeus
+B) Hades
+C) Poseidon
+D) Apollo
+
+Q94: What is the only letter in the English alphabet that is not in the name of any US state?
+A) Z
+B) Q
+C) J
+D) X
+
+Q95: What is the process of a solid turning directly into a gas called?
+A) Evaporation
+B) Condensation
+C) Sublimation
+D) Melting
+
+Q96: What famous detective lives at 221B Baker Street?
+A) Hercule Poirot
+B) Miss Marple
+C) Sherlock Holmes
+D) Philip Marlowe
+
+Q97: What is the world's largest island?
+A) Australia
+B) Madagascar
+C) Greenland
+D) New Guinea
+
+Q98: What does CEO stand for?
+A) Chief Executive Officer
+B) Central Exchange Office
+C) Corporate Events Organizer
+D) Certified Ethics Official
+
+Q99: What is the primary function of the cerebellum?
+A) Emotion
+B) Memory
+C) Balance and Coordination
+D) Language
+
+Q100: How many years are in a decade?
+A) 5
+B) 10
+C) 50
+D) 100
